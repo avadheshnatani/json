@@ -1,0 +1,60 @@
+{
+  "Timestamp": "2018-09-16T16:11:04+01:00",
+  "Players": [
+    {
+      "ID": "2018055",
+      "Order": "1",
+      "PathImg": "/DAM/folderId/sourcefile.jpg",
+      "LinkToPage": "/player/ID",
+      "FirstName": "Sandro",
+      "LastName": "Zaninello",
+      "FullName": "S. Zaninello",
+      "CountryISO": "ITA",
+      "CountryName": "Italy"
+    },
+    {
+      "ID": "2035465",
+      "Order": "2",
+      "PathImg": "/DAM/folderId/sourcefile.jpg",
+      "LinkToPage": "/player/ID",
+      "FirstName": "Elisa",
+      "LastName": "Citterio",
+      "FullName": "E. Citterio",
+      "CountryISO": "FRA",
+      "CountryName": "France"
+    },
+	{
+      "ID": "2013335",
+      "Order": "3",
+      "PathImg": "/DAM/folderId/sourcefile.jpg",
+      "LinkToPage": "/player/ID",
+      "FirstName": "Jash",
+      "LastName": "Fosbury",
+      "FullName": "J. Fosbury",
+      "CountryISO": "SUI",
+      "CountryName": "Suisse"
+    },
+    {
+      "ID": "1099465",
+      "Order": "4",
+      "PathImg": "/DAM/folderId/sourcefile.jpg",
+      "LinkToPage": "/player/ID",
+      "FirstName": "Kim",
+      "LastName": "Katlin",
+      "FullName": "K. Katlin",
+      "CountryISO": "GER",
+      "CountryName": "Germany"
+    },
+	{
+      "ID": "1546995",
+      "Order": "5",
+      "PathImg": "/DAM/folderId/sourcefile.jpg",
+      "LinkToPage": "/player/ID",
+      "FirstName": "Lucy",
+      "LastName": "Poliun",
+      "FullName": "L. Poliun",
+      "CountryISO": "JAP",
+      "CountryName": "Japan"
+    }
+  ]
+}
